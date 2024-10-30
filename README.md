@@ -53,6 +53,3 @@ This project is ideal for learning how to collect data from the web, integrate A
 
 This project is licensed under the MIT License.
 
----
-
-Let me know if you’d like to customize any sections or add more details!
