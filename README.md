@@ -40,8 +40,9 @@ This project is ideal for learning how to collect data from the web, integrate A
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/azizbentaleb/data-retrieval-project.git
-   cd data-retrieval-project
+   git clone https://github.com/azizbentaleb/Data_preparation.git
+   cd Data_preparation
+
    ```
 
 2. **Install required libraries**:
